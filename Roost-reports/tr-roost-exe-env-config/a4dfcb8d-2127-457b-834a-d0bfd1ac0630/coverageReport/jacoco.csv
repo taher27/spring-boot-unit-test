@@ -1,0 +1,10 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+demo,com.example.util,PayloadValidator,4,8,1,1,1,1,2,1,1,1
+demo,com.example.model,Response,0,26,0,0,0,12,0,6,0,6
+demo,com.example.model,ToDo,9,36,0,0,4,16,1,8,1,8
+demo,com.example.exception,ErrorResponse,0,17,0,0,0,7,0,5,0,5
+demo,com.example.exception,RestExceptionHandler,0,38,0,0,0,9,0,3,0,3
+demo,com.example.exception,ToDoException,3,10,0,0,2,4,1,2,1,2
+demo,com.example,DemoApplication,51,0,0,0,11,0,5,0,5,0
+demo,com.example.service,ToDoServiceImpl,0,24,0,0,0,6,0,5,0,5
+demo,com.example.web,ToDoController,32,103,5,3,6,21,4,7,0,7
